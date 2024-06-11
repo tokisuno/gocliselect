@@ -4,7 +4,6 @@ go 1.22.4
 
 require (
 	github.com/buger/goterm v1.0.4
-	github.com/nexidian/gocliselect v1.0.0
 	github.com/pkg/term v1.1.0
 )
 
