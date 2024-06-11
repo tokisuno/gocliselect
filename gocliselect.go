@@ -8,8 +8,8 @@ import (
 )
 
 // Raw input keycodes
-var up byte = 65
-var down byte = 66
+var up byte = 75
+var down byte = 74
 var escape byte = 27
 var enter byte = 13
 var keys = map[byte]bool {
