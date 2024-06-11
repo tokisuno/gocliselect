@@ -1,4 +1,4 @@
-module github.com/tokisuno/gocliselect-vim
+module github.com/tokisuno/gocliselect
 
 go 1.22.4
 
